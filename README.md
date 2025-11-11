@@ -11,7 +11,7 @@ My Goal with this project is to understand the causes of stress for students and
 3. Environmental Factors
 4. Academic Factors
 5. Social Factors
-
+This project also particularly interests me as I, myself, am a student, and I am also the same age as the people within the survey from a surface level glance
 
 - Provide a brief background or context for your analysis. Explain why the data is relevant or interesting.
 
